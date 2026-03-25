@@ -4,7 +4,7 @@
 
 ## 🚀 Skills & Tools
 
-Python | Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel | Data Cleaning | Exploratory Data Analysis (EDA)
+Python | Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel | Data Cleaning | SQL | Exploratory Data Analysis (EDA)
 
 ## 📊 Projects
 
